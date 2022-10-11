@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Serif SC
+- Font Author: Copyright 2017 Adobe Systems Incorporated (http://www.adobe.com/).
+- Font Source: http://fonts.gstatic.com/s/notoserifsc/v21/H4chBXePl9DZ0Xe7gG9cyOj7oqCcbzhqDtg.otf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

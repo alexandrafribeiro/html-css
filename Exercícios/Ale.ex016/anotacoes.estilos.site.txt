@@ -1,0 +1,14 @@
+Montando site
+
+STYLE CSS
+
+@charsert "UTF-8" - para configurar a pontuação
+
+
+Parte principal (main)
+
+main {
+	background-color: white
+	width: 600px (largura do texto e cor)
+	padding: 10px (arrumar as bordas do texto)
+	margin: auto (vai ficar centralizado)

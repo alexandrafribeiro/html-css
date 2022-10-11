@@ -1,0 +1,35 @@
+HTML5
+
+CAP 11 - Formatos de vídeos
+
+HANDBRAKE: programa para comprimir e preparar videos mp4.
+
+Dica: progrmada handbrake - Open source
+Conversão de vídeo para outro formatos.
+
+Pq tenho que ter vídeos em vários formatos? Pq os navegadores
+são compatíveis com determinados formatos. Pode ser que funcione
+em alguns computadores e outros não.
+
+No site colocar em todos os formatos ara o usuário poder acessar
+de qualquer navegador.
+
+WIDTH: tamanho do vídeo no site.
+CONTROLS: player do vídeo.
+AUTOPLAY: tocar sozinho
+LOOP: voltar a tocar o vídeo
+POSTER: capa do vídeo
+
+CUIDADO: vídeos hospedados desta maneira, usando <video>
+vão consumir muito trafego de dados. Muito caro para o cliente.
+
+Ter um vídeo anexado do YouTube aumenta a visualização/
+abrangência que o algoritmo do Google vai dar.
+Importante criar um canal no YouTube ou o cliente criar
+para subir os vídeos e incorporar no site de forma simples.
+Cuidar os direitos autorais (usar vídeos livres ou autorais).
+
+Os vídeos podem ser adicionados também pelo vimeo
+
+
+

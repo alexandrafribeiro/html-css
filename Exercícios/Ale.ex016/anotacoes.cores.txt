@@ -1,0 +1,84 @@
+CÍRCULO CROMÁTICO
+
+12 cores principais
+
+Cores primárias: (triângulo equilátero)
+amarelo, vermelho e azul
+
+Cores secundárias: (triângulo equilátero cabeça pra baixo)
+Laranja, violeta e verde
+
+Cores terciárias: 1 cor primária e 1 secundárias
+amarelo-esverdeado / amarelo-alaranjado / vermelho-alaranjado
+vermelho-arroxeado / azul-arroxeado  azul-esverdeado
+
+TEMPERATURA DE CORES
+
+Dividir o círculo cromático no meio
+Lado direito: cores frias
+Lado esquerdo: cores quentes
+
+CORES COMLPLEMENTARES
+Estão opostas no círculo cromático. Ex: Roxo e Amarelo
+
+CORES ANÁLOGAS
+Cores que estão ao lado da principal. Ex: todo os tons de roxo
+
+CORES ANÁLOGAS E COMPLEMENTARES
+Cores que estão ao lado e uma oposta a principal.
+Ex: tons de roxo e amarelo.
+
+CORES ANÁLOGAS RELACIONADAS
+2 cores vizinhas pula uma casa e pega a 4.
+Ex: 2 tons de amarelo e vermelho-alaranjado 
+
+CORES INTERCALADAS
+Escolhe uma cor e pula uma.
+Ex: verde claro, azul-esvevrdeado e violeta
+
+CORES TRIÁDICAS
+Escolhe 1 cor e pula 3
+Ex: amarelo, vermelho e azul
+
+CORES QUADRADAS
+Escolhe 1 e pula 2
+Ex: amarelo, vermelho-alaranjado, roxo e azul-esverdeado
+
+CORES TETRÁDICAS (retângulo)
+Escolhe 1 cor e pega outra complementar, escolhe outra e pega 1
+complementar tbm, formando um x no círculo.
+Ex: azul com laranja e vermelho com verde
+
+MONOCROMIA
+Apenas uma cor e modificar a saturação e luminosidade.
+
+Paletas de cores devem ter de 3 a 5 cores.
+
+SITES PARA CRIAR PALETAS 
+
+Adobe color 
+Palleton.com - ele monta um site com exemplos de paletas
+Coolors
+
+Como capturar cores de um site?
+
+Tirar print do site - abrir no GIMP - pega o conta gota e 
+seleciona a cor
+
+ColorZilla - conta gotas na barra de extensões canto direito
+Selecionar o conta gotas
+
+GRADIENTE EM CSS
+
+<head>
+ <style>
+   <body>
+	background-image: linear-gradient(to right, white, blue);
+
+Gradiente para cima - to top
+Configuração global  * {
+			height: 100%;
+	}
+Gradiente para baixo - to bottom
+Degradê fixo:  background-attachment: fixed
+

@@ -1,0 +1,13 @@
+Estilos Locais / Internos
+
+Criar um arquivo CSS
+link: css dentro do head - 
+<link rel="styesheet" href="style.css">
+
+@charset "UTF-8" para escrita com acentuação;
+
+Posso colocar um link extra de css
+
+No mesmo arquivo posso utilizar CSS externo, CSS interno e
+CSS inline.
+O inline sempre se sobressai
